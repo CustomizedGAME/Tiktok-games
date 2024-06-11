@@ -1,6 +1,6 @@
 #Tiktok BarrageBox Software
 
-BarrageBox software has been released, and you can download it at http://aygdc.fun/supergame-1.1.8-setup.exe. Everyone is welcome to register for free to experience it. Now supporting two popular TikTok live stream games: Battle of Mole Manor and The Battle of Marbles.
+BarrageBox software has been released, and you can download it at [Here](http://aygdc.fun/supergame-1.1.8-setup.exe). Everyone is welcome to register for free to experience it. Now supporting two popular TikTok live stream games: Battle of Mole Manor and The Battle of Marbles. More visite [Website](http://aygdc.fun/a/news/).
 
 ## Download
 
